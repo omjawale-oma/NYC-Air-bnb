@@ -5,6 +5,9 @@ City Airbnb listing from listing and host-related features. The project
 demonstrates a complete workflow from model training to serving
 predictions through a FastAPI backend and a simple web interface.
 
+## Project Live 
+https://nyc-air-bnb-2.onrender.com
+
 ## Project Overview
 
 Airbnb listings can differ by room type, host activity, and review
